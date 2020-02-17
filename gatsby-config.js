@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
-    description: ``,
+    title: `The Unholy Trinity - Everton Podcast`,
+    description: `3 Blues. 3 Opinions. 1 Everton podcast. By the fans. For the fans.`,
     author: ``,
-    twitter: ``,
-    instagram: ``,
+    twitter: `https://twitter.com/UHTPodcast?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor`,
+    instagram: `https://www.instagram.com/uhtpodcasteverton/`,
     facebook: ``,
     youtube: ``,
-    apple: ``,
-    google: ``,
-    pocket: ``,
-    spotify: ``,
-    overcast: ``,
-    castbox: ``,
-    castro: `https://castro.fm/itunes/`,
+    apple: `https://podcasts.apple.com/podcast/id1453286525?ct=podlink&mt=2`,
+    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTg2ODUzNDYzL3NvdW5kcy5yc3M=`,
+    pocket: `https://pca.st/itunes/1453286525`,
+    spotify: `https://open.spotify.com/show/3oDcOpyQXRowI99Ky6LEMz`,
+    overcast: `https://overcast.fm/itunes1453286525`,
+    castbox: `https://castbox.fm/vic/1453286525`,
+    castro: `https://castro.fm/itunes/1453286525`,
     podbean: ``,
-    beaker: ``,
+    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A586853463%2Fsounds.rss`,
     stitcher: ``
   },
   plugins: [
@@ -52,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `http://feeds.soundcloud.com/users/soundcloud:users:586853463/sounds.rss`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
